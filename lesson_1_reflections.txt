@@ -36,3 +36,4 @@ could make changes more easier
 What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
 boring
 How might using version control make you more confident to make changes that could break something?
+blah blah blah
